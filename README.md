@@ -2,8 +2,8 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/04967b43-0fb6-4fa8-875f-f3179603b3c7
-
+**URL**: [https://lovable.dev/projects/04967b43-0fb6-4fa8-875f-f3179603b3c7
+](https://quiz-whiz-learn.lovable.app/login)
 ## How can I edit this code?
 
 There are several ways of editing your application.
